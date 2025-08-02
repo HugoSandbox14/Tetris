@@ -1,4 +1,5 @@
 # Tetris
 A simple Tetris
 
-run the code in the "main.py" file and enjoy the game. Updates will be add soon
+To run the code, the package "pygame" is required.
+Run the code in the "main.py" file and enjoy the game. Updates will be add soon

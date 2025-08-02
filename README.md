@@ -1,5 +1,4 @@
 # Tetris
 A simple Tetris
 
-run the code in the "main.py" file and enjoy the game
-Updates will be add soon
+run the code in the "main.py" file and enjoy the game. \nUpdates will be add soon
